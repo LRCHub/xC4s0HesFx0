@@ -1,0 +1,16 @@
+{
+  "version": 1,
+  "base_track": "文学講義",
+  "base_artist": "水槽",
+  "createdAt": "2026-02-11T16:39:41.031548Z",
+  "candidates": [
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "文学講義",
+      "artist": "水槽, 相沢",
+      "has_synced": false,
+      "path": "select/pl_01_文学講義_水槽,_相沢.txt"
+    }
+  ]
+}
